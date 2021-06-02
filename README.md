@@ -1,7 +1,7 @@
 # Voter-Registration
 
 ### Project 4 under HTML-CSS Suven Coding Internship
-You can view the live preview <a href="">Here</a>
+You can view the live preview <a href="https://shashwatbangar.github.io/Voter-Registration/">Here</a>
 
 <ul>
 <li>In this project, I've rebuilt the form6 used by nvsp.in for registering new voters.</li>
